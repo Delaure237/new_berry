@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087613736860",
+    "project_id": "mentor-f8c95",
+    "storage_bucket": "mentor-f8c95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087613736860:android:af378cbe7607c664861a59",
+        "android_client_info": {
+          "package_name": "com.example.new_berry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPUDPpV-t_CL_wOczbPKfz1Q8uksoxn1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
