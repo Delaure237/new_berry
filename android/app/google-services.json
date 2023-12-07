@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355957368749",
+    "project_id": "delaure-11c79",
+    "storage_bucket": "delaure-11c79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355957368749:android:378184eb13bcdc0c2e2324",
+        "android_client_info": {
+          "package_name": "com.example.new_berry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq2gO6XaZuy1paAEhxs1CR3-yYY0qO3Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
